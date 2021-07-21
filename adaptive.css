@@ -1,0 +1,84 @@
+@media only screen and (max-width:1264px){
+    .f404{
+        margin: 0 auto;
+    }
+
+    .author{
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width:1070px){
+    .commetn{
+        display: none;
+    }
+
+    .bloger-info-setting{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .block-3{
+        display: none;
+    }
+}
+
+@media only screen and (max-width:868px){
+    .footer-main{
+        padding: 20px;
+    }
+
+    .footer-icon{
+        text-align: center;
+        margin: 20px 0;
+    }
+}
+
+@media only screen and (max-width:707px){
+    .block-3{
+        margin-top: 40px;
+        display: block;
+    }
+
+    .block-2{
+        margin-top: 40px;
+    }
+
+    .container{
+        width:100%;
+    }
+}
+
+@media only screen and (max-width:640px){
+    .autor_404{
+        display: none;
+    }
+
+    .navabar{
+        padding: 20px;
+        text-align: center;
+        align-items: center;
+    }
+
+    .search, .navabar-link{
+        margin-top: 20px;
+    }
+
+    .sign-in{
+        margin-top: 40px;
+    }
+}
+
+@media only screen and (max-width:320px){
+    .log-sign, .cake, .block-1, .calendar, .tag, .statistica{
+        display: none;
+    }
+
+    .block-1{
+        width: 100%;
+    }
+
+}
+
+
